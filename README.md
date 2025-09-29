@@ -4,7 +4,7 @@
 
 ## 🚀 The First Strategic PUMP Treasury on Solana
 
-PSTR introduces a revolutionary treasury mechanism that accumulates PUMP tokens to create a reserve-backed stabilization engine for the PSTR token ecosystem.
+PSTR introduces a revolutionary and the first ever treasury mechanism that accumulates PUMP tokens to create a reserve-backed stabilization engine for the PSTR token ecosystem.
 
 ### Key Features
 
