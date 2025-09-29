@@ -21,13 +21,13 @@ PSTR introduces a revolutionary treasury mechanism that accumulates PUMP tokens 
 PSTR continuously accumulates PUMP tokens through systematic purchases. This Strategic Reserve serves as a dynamic stabilization engine that automatically intervenes when PSTR experiences significant price compression.
 
 **Intervention Thresholds:**
--15-20% price compression → Deploy 10% of reserves
+-5-20% price compression → Deploy 10% of reserves
 Calculation: Treasury Value × Tier 1 Percentage = Deployment Amount
 Expected Impact: ~(Deployment Amount ÷ Market Cap) × Recovery Multiplier
--20-30% price compression → Deploy 25% of reserves
+20-30% price compression → Deploy 25% of reserves
 Calculation: Treasury Value × Tier 2 Percentage = Deployment Amount
 Expected Impact: ~(Deployment Amount ÷ Market Cap) × Recovery Multiplier
--30%+ price compression → Deploy 40% of reserves
+30%+ price compression → Deploy 40% of reserves
 Calculation: Treasury Value × Tier 3 Percentage = Deployment Amount
 Expected Impact: ~(Deployment Amount ÷ Market Cap) × Recovery Multiplier
 
