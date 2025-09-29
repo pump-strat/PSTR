@@ -50,7 +50,6 @@ Expected Impact: ~(Deployment Amount ÷ Market Cap) × Recovery Multiplier
 ## 📈 Tokenomics
 
 - **Token Symbol**: PSTR
-- **Total Supply**: TBD
 - **Chain**: Solana
 - **Treasury Allocation**: 90% PUMP reserves, 10% Liquidity
 
