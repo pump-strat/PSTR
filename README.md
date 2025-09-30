@@ -8,11 +8,11 @@ PSTR introduces a revolutionary and the first ever treasury mechanism that accum
 
 ### Key Features
 
-- ✅ **90% Treasury Allocation** - Systematic PUMP accumulation building the largest strategic reserve
-- ✅ **10% Liquidity Commitment** - Ever-expanding liquidity moat for price stability
-- ✅ **Automated Stabilization** - Smart intervention system deploys reserves during drawdowns
-- ✅ **Dual Ecosystem Support** - Benefits from PUMP growth while protecting PSTR holders
-- ✅ **100% Transparent** - On-chain verification of all treasury operations
+✅ Build Strategic Reserves - 90% systematic PUMP accumulation creates maximum treasury strength-
+✅ Expand Liquidity Moat - 10% allocation ensures continuous price stability through market depth
+✅ Deploy Smart Interventions - Automated system strategically uses reserves during market compression
+✅ Maximize Dual Benefits - Leverages PUMP growth while safeguarding PSTR holder value
+✅ Ensure Full Transparency - On-chain verification provides complete operational visibility
 
 ## 📊 How It Works
 
