@@ -6,6 +6,10 @@
 
 PSTR introduces a revolutionary and the first ever treasury mechanism that accumulates PUMP tokens to create a reserve-backed stabilization engine for the PSTR token ecosystem.
 
+### Socials
+
+- [X (Twitter)](https://x.com/pumpdaostrategy)
+
 ### Key Features
 
 - ✅ Build Strategic Reserves - 90% systematic PUMP accumulation creates maximum treasury strength
